@@ -1,5 +1,8 @@
 // LeetCode: https://leetcode.com/problems/rotate-array/description/
 
+// In this question, we are Right Rotating the array that's why we are left rotation on (N - K) elements
+// If we were asked to Left Rotate the array, we would have done using the given K only
+
 class Solution {
 
 private:
