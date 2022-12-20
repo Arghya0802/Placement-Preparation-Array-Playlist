@@ -1,5 +1,5 @@
 // LeetCode https://leetcode.com/problems/valid-triangle-number/description/
-// GFG: 
+// GFG: https://practice.geeksforgeeks.org/problems/form-a-triangle5935/1
 
 // To solve this question, we need to be familiar with problems like- 3Sum , 3Sum Closest & 4Sum
 // Next we know the property which any triangle has to satisfy, 
